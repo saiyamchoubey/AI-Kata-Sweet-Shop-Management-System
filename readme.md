@@ -189,18 +189,6 @@ npm test
 
 ---
 
-## 🤝 Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-Quick steps:
-1. Fork & branch (`feat/...`, `fix/...`)
-2. Run `docker-compose up` for local dev
-3. Run tests before PR
-4. Follow linting rules
-5. Open PR with description & linked issue
-
----
-
 ## 🌐 Deployment
 Deployed via Vercel 👉 [Live Demo](https://sweet-ten.vercel.app/)
 

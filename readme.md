@@ -1,3 +1,5 @@
+👉 [Click here to read the full Problem Statement](./Problem-Statement.md)
+
 # AI Kata Sweet Shop Management System
 
 A full-stack **Sweet Shop Management System**, built as a **TDD (Test-Driven Development) kata**.  

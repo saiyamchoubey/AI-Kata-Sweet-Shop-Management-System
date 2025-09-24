@@ -1,9 +1,5 @@
 # AI Kata Sweet Shop Management System
 
-[![CI](https://github.com/sushmithashettigar29/Sweet-Shop-Management-System/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-![License](https://img.shields.io/badge/license-MIT-green)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-
 A full-stack **Sweet Shop Management System**, built as a **TDD (Test-Driven Development) kata**.  
 It demonstrates skills in API development, database management, frontend implementation, DevOps practices, and the responsible use of AI tools.
 
@@ -239,6 +235,3 @@ Co-authored-by: ChatGPT <chatgpt@openai.com>
 ```
 
 ---
-
-## 📜 License
-MIT © 2025 Sweet Shop Contributors

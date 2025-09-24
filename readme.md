@@ -128,7 +128,6 @@ cd backend
 npm install
 npm run dev
 ```
-API: http://localhost:5000
 
 **Frontend**
 ```bash
@@ -136,17 +135,6 @@ cd frontend
 npm install
 npm run dev
 ```
-App: http://localhost:3000
-
----
-
-## 🐳 Quick Start with Docker
-```bash
-docker-compose up --build
-```
-- Backend → http://localhost:5000  
-- Frontend → http://localhost:3000  
-- MongoDB → localhost:27017
 
 ---
 

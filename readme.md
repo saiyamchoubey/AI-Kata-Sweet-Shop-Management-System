@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+# AI Kata Sweet Shop Management System
 
 [![CI](https://github.com/sushmithashettigar29/Sweet-Shop-Management-System/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/license-MIT-green)
